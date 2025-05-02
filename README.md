@@ -1,4 +1,4 @@
-# DeepCytokine
+# DeepCR
 A deep learning technique combining Pre-trained Language Models for highly conserved patterns in recognition of cytokine receptor proteins
 # Abstract
 Cytokine receptors play a pivotal role in mediating the immune response and are critical in cytokine storms, which underlie the pathogenesis of conditions such as acute respiratory distress syndrome (ARDS) and autoimmune disorders. Identifying cytokine receptors is essential for understanding their biological functions, exploring therapeutic targets, and guiding clinical interventions. Traditional biochemical methods to identify cytokine receptors are labor-intensive, costly, and time-consuming, prompting the need for more efficient alternatives. Recent advances in computational biology have enabled the use of machine learning to classify cytokine receptor proteins; however, existing methods often require extensive feature engineering or rely on limited datasets.
